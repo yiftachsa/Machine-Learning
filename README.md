@@ -17,9 +17,9 @@ In this course, we studied various neural networks, genetic algorithms, and vect
   <img src="Media/ass1.png" width=27% />
   <img src="Media/ass1_2.png" width=32% />
   <img src="Media/ass2.png" width=38% /> 
-  <img src="Media/ass2_3.png" width=27% />
+  <img src="Media/ass2_3.png" width=24% />
   <img src="Media/ass2_2.png" width=42% />
-  <img src="Media/ass1_5.png" width=30% />
+  <img src="Media/ass1_5.png" width=31% />
 </p>
 
 [Assignment 1](Assignments/NB_exercise.ipynb) - Classifying Digits (MNIST dataset) using Bernoulli Naive Bayes (Generative model). Classifing Text Documents using Multinomial Naive Bayes. Developing Naive Bayes classifier and comparing it to the scikit learn built in version.
