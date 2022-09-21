@@ -23,12 +23,14 @@ In this course, we studied various neural networks, genetic algorithms, and vect
   <img src="Media/ass4_2.png" width=23% />
 </p>
 
-### Big Data Analysis
 [Assignment 1](Assignments/NB_exercise.ipynb) - Classifying Digits (MNIST dataset) using Bernoulli Naive Bayes (Generative model). Classifing Text Documents using Multinomial Naive Bayes. Developing Naive Bayes classifier and comparing it to the scikit learn built in version.
 
 [Assignment 2](Assignments/Ex2_Ensemble.ipynb) - AdaBoost Classifier, Condorcet's Jury Theorem (1785) - As number of jury members grows,  n→∞  , the jury majority becomes correct  Pr(correct)→1 
 
 [Assignment 3](Assignments/Ex3.ipynb) - Models comparison - Linear SVM, Random Forest Classifier, Fully Connected Feed-Forward Neural Networks. Encoding and Normalizing, 5-fold Cross-Validation and Grid Search, Over and Under Sampling. 
+
+---
+## [Lectures_Code](Lectures_Code/)
 
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
