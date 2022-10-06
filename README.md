@@ -31,6 +31,7 @@ In this course, we studied various neural networks, genetic algorithms, and vect
 ---
 ## [Lectures_Code](Lectures_Code/)
 
+
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
 </p>
